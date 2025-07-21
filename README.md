@@ -51,6 +51,7 @@ t-SNE for visualization
 
 
 🔍 Implementation Steps
+
  Step 1: Data Loading
  
 <img width="1020" height="784" alt="image" src="https://github.com/user-attachments/assets/fd1612b9-fb92-4eeb-9bc2-5927b60bb2fa" />
