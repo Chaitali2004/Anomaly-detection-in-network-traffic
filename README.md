@@ -2,7 +2,7 @@
 
 Goal -> Detect unusual patterns in network traffic that may indicate intrusions or security breaches using unsupervised learning.
 
-[![Open In Colab](https://colab.research.google.com/drive/1jRoMnTvmVTv6dn42xgGkoWADXq_-gB4t#scrollTo=seVRXs-wbrVQ)
+(https://colab.research.google.com/drive/1jRoMnTvmVTv6dn42xgGkoWADXq_-gB4t#scrollTo=seVRXs-wbrVQ)
 
 
 📌 Table of Contents
